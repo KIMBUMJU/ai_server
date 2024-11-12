@@ -1,2 +1,5 @@
 # .gitignore 파일 내용
 .env
+
+
+.commit
